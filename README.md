@@ -122,6 +122,6 @@ language badges:
  git clone https://github.com/EagleCyber-74/EagleDDOS1
  cd EagleDDOS1
  git pull
- python2 white-ddos.py <IP><prot><limit>
+ python2 EagleDDOS1 192.168.1.1 80 2
 
 Detel tanda <>
