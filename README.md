@@ -115,13 +115,16 @@ language badges:
 
 
 ```
- apt update -y && apt upgrade -y
+  apt update -y && apt upgrade -y
  pkg install git
  pkg install figlet
  pkg install python2
  git clone https://github.com/EagleCyber-74/EagleDDOS1
  cd EagleDDOS1
  git pull
- python2 EagleDDOS1 192.168.1.1 80 2
+ python2 EagleDDOS1.py <192.168.1.1> <80> <2>
+
 
 Detel tanda <>
+
+contoh <ip target> <prot> <limit>
